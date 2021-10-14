@@ -1,8 +1,6 @@
 ## Welcome to Postbagdk
 
 ```markdown
-…or create a new repository on the command line
-
 echo "# postbagdk.github.io" >> README.md
 git init
 git add README.md
