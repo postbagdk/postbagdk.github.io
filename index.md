@@ -1,6 +1,6 @@
 ## Welcome to Postbagdk
 
-[[Building a website on the cheap]]
+[Building a website on the cheap](https://postbagdk.github.io)
 
 ```markdown
 echo "# postbagdk.github.io" >> README.md
